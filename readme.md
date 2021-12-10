@@ -21,4 +21,11 @@ git add .
 # Hacer un commit
 git commit -m "mi mensaje"
 
-# 
+# Crear ramas
+git checkout -B nombre-rama
+
+# Ver mis ramas
+git branch
+
+# Cambiarme de ramas
+git checkout nombre-rama
