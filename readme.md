@@ -11,9 +11,14 @@ git status
 # Ver la historia de commits
 git log --oneline
 
+# Ver la historia de commits
+git log
+
 # Agregar archivos al stagging area
 git add name-file.txt
 git add .
 
 # Hacer un commit
 git commit -m "mi mensaje"
+
+# 
