@@ -29,3 +29,7 @@ git branch
 
 # Cambiarme de ramas
 git checkout nombre-rama
+
+# Unir ramas
+git checkout rama-destino
+git merge rama-origen
