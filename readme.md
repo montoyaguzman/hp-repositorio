@@ -33,3 +33,15 @@ git checkout nombre-rama
 # Unir ramas
 git checkout rama-destino
 git merge rama-origen
+
+# clonar un repositorio
+git clone url
+
+# ver si tengo repositorio remoto
+git remote -v
+
+# subir al repo remoto
+git push origin main
+
+# subir cambios a un repo
+git push origin main
